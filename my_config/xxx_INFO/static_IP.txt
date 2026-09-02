@@ -41,9 +41,9 @@ přidání další Wifi
 1. Přímo v system.cfg (pokud to skript podporuje)
 
 ## wifi name
-WIFI_SSID="MFG"
+WIFI_SSID=""
 ## wifi password
-WIFI_PASSWD="72212209"
+WIFI_PASSWD=""
 
 ## second wifi
 WIFI_SSID2="Domaci_WiFi"
